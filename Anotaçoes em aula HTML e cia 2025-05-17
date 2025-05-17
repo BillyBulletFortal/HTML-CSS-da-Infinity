@@ -9,6 +9,59 @@ UTF-8 converte dados Unicode para um formato de 8 bits, garantindo que os dados 
 UNICODE:
 https://home.unicode.org/
 são codigos de emojis
+digita ! e <enter> que ja entra o arcabouço do codigo.
 
-(insight alert) linguagem nao linear, nao percorrer texto com introdução chatissima , mas se encontra as informações visualmente num search plano 2D, entao a leitura passa a ser orientada por icones, cores e formas de destaque do texto.
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   basta ditigar p e enter que entre um codigo de paragrao, no visual code
+</body>
+</html>
+=============================
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 01</title>
+</head>
+<body>
+    <h1>Título do site - nível 1</h1>
+    <h2>Subtitulo 2</h2>
+    <h3>Subtitulo 4</h3>
+    <p>Um parágrafo do meu... ops, aqui tem uma quebra de linha... <br> primeiro site <br> <b>aqui esta em negrito, com b de bold em ingles</b><hr>viu so a 
+        linha horizontal causada pelo tag hr?,<br><i>e finalmente, em italico</i></p>
+</body>
+</html>
+======================================================
+o html lang = pt br serve para definir traduções automaticas
+
+------------------------
+(insight alert) linguagem nao linear, nao percorrer texto com introdução chatissima , mas se encontra as informações visualmente num search plano 2D,
+entao a leitura passa a ser orientada por icones, cores e formas de destaque do texto.
+A ideia principal no centro, talvez semelhante a um mapa mental. com niveis de complexidade, um resumo primeiro, depois os descobrabmentos de cada compartimento
+NUCLEO  e compartimentos.
+----------------
+
+Viewport - translate - janela de visualização
+The browser's viewport is the area of the window in which web content can be seen.
+Renderizar é gerar  a imagem a partir do codigo de computador
+O viwport não é toda a área renderizada, pois esta inclui os scrollbars para a navegação
+
+
+4 aulas de Html = 1 mes
+4 aulas de CSS
+16 de javascript = 
+-----------------
+insight alert
+cachorrinho que acompanha onde seu olho esta focado no texto, se voce comea a cochilar ou distrair, o sistema detecta sa sadia do foco do olheo e o cahorriono late mostranto o ultimo ponto lido.
+------------------------------------------
+
+
+
 
