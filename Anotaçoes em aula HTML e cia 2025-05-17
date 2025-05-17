@@ -1,0 +1,14 @@
+anotações de aula
+17 05 2025
+UTF-8 gera caracteres até 8 bits - ou seja, 256 codigos. Inclui letras, numeros e emojis.
+UTF-8 é compatível com ASCII, o que significa que os primeiros 128 caracteres (os mesmos que no ASCII) são representados por um byte em UTF-8. 
+É o padrão para a web, sendo o formato padrão para a maioria dos sistemas operacionais e plataformas web
+UTF-8 permite a internacionalização, pois pode representar caracteres de diferentes idiomas
+UTF-8 converte dados Unicode para um formato de 8 bits, garantindo que os dados possam ser transmitidos e armazenados corretamente, mesmo em sistemas que não entendem Unicode. 
+
+UNICODE:
+https://home.unicode.org/
+são codigos de emojis
+
+(insight alert) linguagem nao linear, nao percorrer texto com introdução chatissima , mas se encontra as informações visualmente num search plano 2D, entao a leitura passa a ser orientada por icones, cores e formas de destaque do texto.
+
